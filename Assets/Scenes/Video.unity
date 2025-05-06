@@ -9087,7 +9087,7 @@ MonoBehaviour:
   requestRecordAudioPermissionOnStartup: 0
   _localDimming: 1
   _trackingOriginType: 1
-  usePositionTracking: 1
+  usePositionTracking: 0
   useRotationTracking: 1
   useIPDInPositionTracking: 1
   resetTrackerOnLoad: 0
@@ -9095,7 +9095,7 @@ MonoBehaviour:
   LateControllerUpdate: 1
   LateLatching: 0
   controllerDrivenHandPosesType: 0
-  SimultaneousHandsAndControllersEnabled: 0
+  SimultaneousHandsAndControllersEnabled: 1
   _readOnlyWideMotionModeHandPosesEnabled: 0
   wideMotionModeHandPosesEnabled: 0
   dynamicResolutionVersion: 1
@@ -10888,8 +10888,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bf46b373538ac14e876415163a45310, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  centerEyeAnchor: {fileID: 1175640277}
-  seatPosition: {fileID: 1627115490}
 --- !u!1 &1179364502
 GameObject:
   m_ObjectHideFlags: 0
