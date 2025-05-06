@@ -1,0 +1,11 @@
+Model Information:
+* title:	Size_comparison (coloured)
+* source:	https://sketchfab.com/3d-models/size-comparison-coloured-d38c49fd13d048de86d532be86401d87
+* author:	seth the yutyrannus (https://sketchfab.com/slang107123456789)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Size_comparison (coloured)" (https://sketchfab.com/3d-models/size-comparison-coloured-d38c49fd13d048de86d532be86401d87) by seth the yutyrannus (https://sketchfab.com/slang107123456789) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
