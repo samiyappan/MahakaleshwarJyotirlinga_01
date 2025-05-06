@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class TigerRun : MonoBehaviour
 {
-   public SkinnedMeshRenderer skinnedMeshRenderer;
-  // public MeshRenderer skinnedMeshRenderer;
+    //public SkinnedMeshRenderer skinnedMeshRenderer;
+    public MeshRenderer skinnedMeshRenderer;
    public float erodeRate = 0.03f;
    public float erodeRefereshRate = 0.01f;
    public float erodeDeley = 1.25f;

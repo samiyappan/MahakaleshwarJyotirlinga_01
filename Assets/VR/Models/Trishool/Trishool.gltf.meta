@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 85fe197b05888b840b73415e5b563422
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 1
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\VR\Trishool\Trishool.bin
+    assetPath: Assets\VR\Trishool\Trishool.bin
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\wooden_pole_normal.jpg
+    assetPath: Assets\VR\Trishool\Textures\wooden_pole_normal.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\wooden_pole_diffuse_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\wooden_pole_diffuse_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\wooden_pole_Roughness.png
+    assetPath: Assets\VR\Trishool\Textures\wooden_pole_Roughness.png
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\TrishoolHead_Normal.jpg
+    assetPath: Assets\VR\Trishool\Textures\TrishoolHead_Normal.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\TrishoolHead_Diffuse_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\TrishoolHead_Diffuse_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\TrishoolHead_Metallic_jpg-TrishoolHead_Roughness_jpg.png
+    assetPath: Assets\VR\Trishool\Textures\TrishoolHead_Metallic_jpg-TrishoolHead_Roughness_jpg.png
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\Trishool_Support_Normal.jpg
+    assetPath: Assets\VR\Trishool\Textures\Trishool_Support_Normal.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\Trishool_Support_Diffuse_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\Trishool_Support_Diffuse_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\Trishool_Support_Metallic_jpg-Trishool_Support_Roughness_jpg.png
+    assetPath: Assets\VR\Trishool\Textures\Trishool_Support_Metallic_jpg-Trishool_Support_Roughness_jpg.png
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\Sapphire_Holder_Normal_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\Sapphire_Holder_Normal_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\Sapphire_Holder_Diffuse_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\Sapphire_Holder_Diffuse_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\Sapphire_Holder_Metallic_jpg-Sapphire_Holder_Roughness_jpg.png
+    assetPath: Assets\VR\Trishool\Textures\Sapphire_Holder_Metallic_jpg-Sapphire_Holder_Roughness_jpg.png
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\sapphire_Normal_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\sapphire_Normal_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\sapphire_Diffuse_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\sapphire_Diffuse_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\sapphire_Roughness_jpg.png
+    assetPath: Assets\VR\Trishool\Textures\sapphire_Roughness_jpg.png
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\Bead_String_Normal.jpg
+    assetPath: Assets\VR\Trishool\Textures\Bead_String_Normal.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\Bead_String_Diffuse_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\Bead_String_Diffuse_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\Bead_String_Roughness_jpg.png
+    assetPath: Assets\VR\Trishool\Textures\Bead_String_Roughness_jpg.png
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\beads_Normal_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\beads_Normal_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\beads_Diffuse_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\beads_Diffuse_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\beads_Roughness_jpg.png
+    assetPath: Assets\VR\Trishool\Textures\beads_Roughness_jpg.png
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\DamruBody_Normal.jpg
+    assetPath: Assets\VR\Trishool\Textures\DamruBody_Normal.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\DamruBody_Diffuse_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\DamruBody_Diffuse_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\DamruBody_Roughness_jpg.png
+    assetPath: Assets\VR\Trishool\Textures\DamruBody_Roughness_jpg.png
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\Damru_Bindings_Normal.jpg
+    assetPath: Assets\VR\Trishool\Textures\Damru_Bindings_Normal.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\Damru_Bindings_Diffuse.jpg
+    assetPath: Assets\VR\Trishool\Textures\Damru_Bindings_Diffuse.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\Damru_Bindings_Roughness.png
+    assetPath: Assets\VR\Trishool\Textures\Damru_Bindings_Roughness.png
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\filament_Normal_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\filament_Normal_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\filament_Diffuse_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\filament_Diffuse_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\filament_Roughness_jpg.png
+    assetPath: Assets\VR\Trishool\Textures\filament_Roughness_jpg.png
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\DamruMetalFrame_Normal_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\DamruMetalFrame_Normal_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\DamruMetalFrame_Diffuse.jpg
+    assetPath: Assets\VR\Trishool\Textures\DamruMetalFrame_Diffuse.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\DamruMetalFrame_Metallic_jpg-DamruMetalFrame_Roughness_jpg.png
+    assetPath: Assets\VR\Trishool\Textures\DamruMetalFrame_Metallic_jpg-DamruMetalFrame_Roughness_jpg.png
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\CentreRing_Normal_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\CentreRing_Normal_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\CentreRing_Diffuse.jpg
+    assetPath: Assets\VR\Trishool\Textures\CentreRing_Diffuse.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\CentreRing_Metallic-CentreRing_Roughness_jpg.png
+    assetPath: Assets\VR\Trishool\Textures\CentreRing_Metallic-CentreRing_Roughness_jpg.png
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\StringSrings_Normal_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\StringSrings_Normal_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\StringSrings_Diffuse.jpg
+    assetPath: Assets\VR\Trishool\Textures\StringSrings_Diffuse.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\StringSrings_Metallic_jpg-StringSrings_Roughness_jpg.png
+    assetPath: Assets\VR\Trishool\Textures\StringSrings_Metallic_jpg-StringSrings_Roughness_jpg.png
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\Trishool_Eye_Normal_jpg.jpg
+    assetPath: Assets\VR\Trishool\Textures\Trishool_Eye_Normal_jpg.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\Trishool_Eye_Diffuse.jpg
+    assetPath: Assets\VR\Trishool\Textures\Trishool_Eye_Diffuse.jpg
+  - type: 1
+    originalUri: Assets\VR\Trishool\Textures\Trishool_Eye_Metallic_jpg-Trishool_Eye_Roughness_jpg.png
+    assetPath: Assets\VR\Trishool\Textures\Trishool_Eye_Metallic_jpg-Trishool_Eye_Roughness_jpg.png
+  reportItems:
+  - type: 2
+    code: 31
+    messages: []
