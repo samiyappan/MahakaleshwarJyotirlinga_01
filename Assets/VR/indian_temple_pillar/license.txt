@@ -1,0 +1,11 @@
+Model Information:
+* title:	Indian Temple Pillar
+* source:	https://sketchfab.com/3d-models/indian-temple-pillar-a0c341230ba54900970ea62e27878e17
+* author:	Maryada maharaj (https://sketchfab.com/maryada.mh01)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Indian Temple Pillar" (https://sketchfab.com/3d-models/indian-temple-pillar-a0c341230ba54900970ea62e27878e17) by Maryada maharaj (https://sketchfab.com/maryada.mh01) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
