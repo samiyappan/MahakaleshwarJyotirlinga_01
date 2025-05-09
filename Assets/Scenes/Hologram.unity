@@ -155,6 +155,38 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1123684190}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &26462751
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 26462752}
+  m_Layer: 0
+  m_Name: Cube.001_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &26462752
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 26462751}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.03308091, y: 0.35966378, z: 0.009181744}
+  m_LocalScale: {x: 0.097881086, y: 0.097881086, z: 0.097881086}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 943857233}
+  m_Father: {fileID: 1754828912}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &27284044
 GameObject:
   m_ObjectHideFlags: 0
