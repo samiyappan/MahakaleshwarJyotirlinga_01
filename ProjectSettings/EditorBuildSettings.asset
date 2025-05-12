@@ -8,12 +8,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Video.unity
     guid: 09b8c672a73feb94cb29280ddae13640
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Hologram.unity
     guid: 22e0abd770f29c747a4fb8ce97558037
   - enabled: 0
     path: Assets/Scenes/Musium.unity
     guid: 538b03dd40aedaa419fed32b159274b3
+  - enabled: 1
+    path: Assets/Scenes/MR.unity
+    guid: 270d2f87ddaca4942a7d1ad87ad52b4d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5a2da4b2f61655d4fa9136f6f814ae49,
       type: 2}
