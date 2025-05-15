@@ -722,9 +722,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2296141232796561049, guid: cee191920b8eb41b0960b1082a393a3e,
         type: 3}
+      propertyPath: castShadows
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2296141232796561049, guid: cee191920b8eb41b0960b1082a393a3e,
+        type: 3}
       propertyPath: MeshMaterial
       value: 
       objectReference: {fileID: 2100000, guid: 599b01c5f1d17436c89b88cc04257314, type: 2}
+    - target: {fileID: 2296141232796561049, guid: cee191920b8eb41b0960b1082a393a3e,
+        type: 3}
+      propertyPath: SpawnOnStart
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5456522116536683058, guid: cee191920b8eb41b0960b1082a393a3e,
         type: 3}
       propertyPath: m_RootOrder
