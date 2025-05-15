@@ -8,10 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Video.unity
     guid: 09b8c672a73feb94cb29280ddae13640
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Hologram.unity
     guid: 22e0abd770f29c747a4fb8ce97558037
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Musium.unity
     guid: 538b03dd40aedaa419fed32b159274b3
   - enabled: 0
